@@ -16,7 +16,7 @@ I'm passionate about building developer-friendly tools that make creating beauti
 ## Connect With Me
 - 🐦 Twitter: [@benjamincanac](https://x.com/benjamincanac)
 - 🦋 Bluesky: [@benjamincanac.dev](https://bsky.app/profile/benjamincanac.dev)
-- 💼 LinkedIn: [Benjamin Canac](https://linkedin.com/in/benjamincanac)
+- 💼 LinkedIn: [benjamincanac](https://linkedin.com/in/benjamincanac)
 
 ---
 
