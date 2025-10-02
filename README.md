@@ -4,7 +4,7 @@ A French developer focused on creating elegant and powerful UI solutions for the
 
 [![benjamincanac Nuxter profile](https://nuxters.nuxt.com/card/benjamincanac/og.png)](https://nuxters.nuxt.com/benjamincanac)
 
-## My Work
+## What I'm building
 
 I'm passionate about developer experience and crafting tools that make creating beautiful interfaces simpler and more enjoyable. My work centers around providing comprehensive, flexible component libraries that help teams ship faster.
 
